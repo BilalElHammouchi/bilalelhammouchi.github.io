@@ -60,7 +60,7 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: images/atlasia.png
+            icon: fas fa-globe
             url: atlasia.ma
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -69,6 +69,11 @@ content:
           Take the first step towards creating the Moroccan ChatGPT
         description: | # this will include new lines to allow paragraphs
           I developed the backend of the atlasia.ma website using Firebase technology for the AtlasIA team. I streamlined backend processes to enable easy data import to Hugging Face, supporting open-source collaboration. Additionally, I created a responsive frontend design compatible with both mobile devices and PCs, enhancing the website's functionality and accessibility, and contributing to the overall success of the AtlasIA project.
+      
+      - layout: top-middle
+        title: Legolingo
+        description: | # this will include new lines to allow paragraphs
+          I collaborated in a team of three on a project powered by OpenAI’s GPT-3.5 Turbo API, where I played a key role in integrating AI technologies to create a language-learning experience. I designed and implemented features to enhance users’ language skills, including topic-based reading, vocabulary testing, auditory comprehension exercises, and writing skill assessments. Through effective collaboration and teamwork, I actively contributed to the project's success.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
