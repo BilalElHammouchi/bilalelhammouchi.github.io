@@ -75,33 +75,52 @@ content:
         description: | # this will include new lines to allow paragraphs
           I collaborated in a team of three on a project powered by OpenAI’s GPT-3.5 Turbo API, where I played a key role in integrating AI technologies to create a language-learning experience. I designed and implemented features to enhance users’ language skills, including topic-based reading, vocabulary testing, auditory comprehension exercises, and writing skill assessments. Through effective collaboration and teamwork, I actively contributed to the project's success.
 
+      - layout: top-middle
+        title: HouseAgent
+        link: https://github.com/BilalElHammouchi/houseagent
+        description: | # this will include new lines to allow paragraphs
+          I developed a Flutter application called House Agent for the Hackathon I2A'01 contest. This app utilizes artificial neural networks and DialogFlow to provide house price predictions. It features a property input page for house details, a chat interface with a DialogFlow agent, and integrates technologies like Flutter, TensorFlow, Flask, Firebase, and PythonAnywhere. The backend, built with Flask, handles machine learning tasks and user queries, while Firebase hosts the site and PythonAnywhere hosts the backend.
+
+      - layout: top-middle
+        title: Intrusion Detection System
+        link: https://github.com/BilalElHammouchi/intrusion_detection_system
+        description: | # this will include new lines to allow paragraphs
+          I deployed an Intrusion Detection System to enhance network security against attacks. I developed a real-time monitoring Flutter mobile app for network intrusion detection and managed Flask backend integration with a TensorFlow Lite model for efficient data processing. Additionally, I applied the CRISP methodology for structured data mining in network security.
+
+      - layout: top-middle
+        title:  Project Crowd Analysis
+        link: https://github.com/GoldenDovah/Crowd-Analysis-GUI
+        description: | # this will include new lines to allow paragraphs
+          I enhanced a desktop app using YOLO and deepSORT for camera-based suspicious activity detection. I developed a user-friendly graphical interface with customtkinter for seamless user interaction and integrated a robust alarm system, enabling customizable alerts via sound, text messages, or phone calls. I played a pivotal role in the project’s evolution by bridging technical proficiency with practical solutions to enhance functionality and user experience.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Matious Digital
+        link: http://www.matious.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Machine Learning Intern
+        caption: March 2024 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Currently in a 6 month long internship as part of my masters thesis building a full scale web agent that leverages the power of LMMs to automatize the process of using web browsers.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title:  Mohammed First University
+        caption: 2022 - 2024
+        sub_title: MSc Data Science
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my master's studies in Data Science and AI, I gained a deep understanding of machine learning algorithms, data analysis techniques, and advanced statistical methods. I learned to leverage big data tools and frameworks to extract meaningful insights from complex datasets. Additionally, I developed skills in natural language processing, computer vision, and neural networks, applying theoretical knowledge to practical projects and real-world problems. My studies also honed my ability to communicate technical concepts effectively and collaborate in multidisciplinary teams. I also had the honor to be one of the founding members of the first ever club in the faculty, the AI Club I2A.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title:  Mohammed First University
+        caption: 2019 - 2022
+        sub_title: BSc Data Science
+        description: | # this will include new lines to allow paragraphs
+          During my bachelor's studies in Mathematics and Computer Science, I acquired a strong foundation in mathematical principles and computational methods. I gained expertise in programming languages, data structures, algorithms, and software development techniques. This education provided me with analytical thinking skills, problem-solving abilities, and a solid understanding of mathematical modeling and optimization. I also learned to apply mathematical concepts to computer science problems, laying the groundwork for my advanced studies in Data Science and AI.
 
   - title: A Little More About Me
     layout: text
