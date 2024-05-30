@@ -89,7 +89,7 @@ content:
 
       - layout: top-middle
         title:  Project Crowd Analysis
-        link: https://github.com/GoldenDovah/Crowd-Analysis-GUI
+        link: https://github.com/BilalElHammouchi/Crowd-Analysis-GUI
         description: | # this will include new lines to allow paragraphs
           I enhanced a desktop app using YOLO and deepSORT for camera-based suspicious activity detection. I developed a user-friendly graphical interface with customtkinter for seamless user interaction and integrated a robust alarm system, enabling customizable alerts via sound, text messages, or phone calls. I played a pivotal role in the project’s evolution by bridging technical proficiency with practical solutions to enhance functionality and user experience.
 
