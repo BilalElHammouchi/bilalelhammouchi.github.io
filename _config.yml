@@ -103,7 +103,7 @@ content:
         sub_title: Machine Learning Intern
         caption: March 2024 - Present
         description: | # this will include new lines to allow paragraphs
-            Currently in a 6 month long internship as part of my masters thesis building a full scale web agent that leverages the power of LMMs to automatize the process of using web browsers.
+            During my 6-month internship as part of my master's thesis, I am developing a comprehensive web agent that harnesses the capabilities of Large Language Models (LMMs) like GPT-4 Vision. This agent aims to automate the process of using web browsers efficiently. I am utilizing technologies such as Selenium and Python to create a seamless automation workflow. This project involves experimenting with various LMMs to optimize performance and enhance the agent's capabilities, contributing to advancements in web automation and AI-driven processes.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
